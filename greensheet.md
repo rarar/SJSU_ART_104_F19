@@ -72,6 +72,17 @@ Schedule
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 08/22      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) Git Registration ** [http://switch.sjsu.edu/archive/archives/index.html](http://switch.sjsu.edu/archive/archives/index.html) Read one to three articles from the SWITCH Archives and post your response in the Reading One folder |
+| *Week 2* 08/29     | **Reading 1 Due** ** Presentation + Discussion ** **Reading 2: Assigned in Class** ** Introduction to HTML |
+| *Week 3* 09/5     | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: Assigned in Class** Website Setup and Git Pipeline |
+| *Week 4* 09/12      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: Assigned in Class** ** HTML 2 |
+| *Week 5* 09/19      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Assigned in Class** ** Forming SWITCH Groups and Begin Working on site design|
+| *Week 6* 09/26      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: Assigned in Class** ** Final Paper Requirements Posted to the Git. Students will present their ideas on 11/11 to the class. |
+| *Week 7* 10/03      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: Assigned in Class** ** Group Work Beginning Research For Final |
+| *Week 8* 10/10      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography**|
+| *Week 9* 10/17      | **Reading 8 Due to class Git** **Reading 9: assigned in class** ** Research and in class work on papers |
+| *Week 10* 10/24     | **Reading 9 Due to class Git** **Reading 10: assigned in class** ** Research and in class work on papers |
+| *Week 11* 10/31     | **Reading 10 Due to class Git** **Reading 11: assigned in class** ** Research and in class work on papers |
+
 |                  |  |
 
 **University Policies**
