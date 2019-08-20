@@ -3,7 +3,7 @@
 Department of Art and Art History
 Art 104, Fall 2019
 
-![gif](https://gph.is/15Muqg7)
+![gif](https://media.giphy.com/media/3xz2BXTRi2h8upl7dm/giphy.gif)
 
 Instructor: Raphael Arar
 Office: Art 115
