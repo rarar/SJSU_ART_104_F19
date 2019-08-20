@@ -82,7 +82,6 @@ Schedule
 | *Week 9* 10/17      | **Reading 8 Due to class Git** **Reading 9: assigned in class** ** Research and in class work on papers |
 | *Week 10* 10/24     | **Reading 9 Due to class Git** **Reading 10: assigned in class** ** Research and in class work on papers |
 | *Week 11* 10/31     | **Reading 10 Due to class Git** **Reading 11: assigned in class** ** Research and in class work on papers |
-
 |                  |  |
 
 **University Policies**
