@@ -83,7 +83,7 @@ Schedule
 | *Week 8* 10/10      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography**|
 | *Week 9* 10/17      | **Reading 8 Due to class Git** **Reading 9: assigned in class** ** Research and in class work on papers |
 | *Week 10* 10/24     | **Reading 9 Due to class Git** **Reading 10: assigned in class** ** Research and in class work on papers |
-| *Week 11* 10/31     | **Reading 10 Due to class Git** **Reading 11: assigned in class** ** Research and in class work on papers |
+| *Week 11* 10/31     | ** Presentation + Discussion ** **No Reading Assigned for Next week: First Draft of Final Due** ** Research and in class work on papers |
 |                  |  |
 
 **University Policies**
