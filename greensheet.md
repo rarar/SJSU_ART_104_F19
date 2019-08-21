@@ -46,7 +46,9 @@ Participation
 -------------
 
 •	Participation in class discussions for readings, material that we watch in class, giving feedback to your peers on their work is mandatory. Remember that 20% of your grade is based on your participation in class + topic presentation and you are expected to actively participate in such discourses as they are some of the most important sections of our class.
+
 •	On Presentation days you must be able to explain and give a clear presentation of the topic, research, and concepts. If you have a hard time talking in front of a crowd or remembering your points, use a notebook, powerpoint, sketches or bullet points for your presentations. 
+
 •	For readings that I will be assigning in this course you are required to post your reading response (500 word two pages double spaced) response to our class blog. You are asked to think critically and post something that questions, criticizes, endorses, and/or adds to the reading. See the course outline chart for deadlines for these responses.
 
 Grading Policy
