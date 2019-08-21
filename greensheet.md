@@ -84,6 +84,13 @@ Schedule
 | *Week 9* 10/17      | **Reading 8 Due to class Git** **Reading 9: assigned in class** ** Research and in class work on papers |
 | *Week 10* 10/24     | **Reading 9 Due to class Git** **Reading 10: assigned in class** ** Research and in class work on papers |
 | *Week 11* 10/31     | ** Presentation + Discussion ** **No Reading Assigned for Next week: First Draft of Final Due** ** Research and in class work on papers |
+| *Week 12* 11/7     | First Draft of Final Papers Due ** Presentation + Discussion ** Reading 10: assigned in class ** Research and in class work on papers **** |
+| *Week 13* 11/11     | ATC 9-12:30 MLK 225 |
+| *Week 13* 11/12     | ATC 9-12:30 MLK 225 |
+| *Week 14* 11/21     | ** Presentation + Discussion ** Reading 11: assigned in class ** Research and in class work on papers|
+| *Week 15* 11/28     | ** Thanksgiving **|
+| *Week 16* 12/5     | ** Reading 11 Extra Credit Due Research and in class work on papers **|
+| *Week 16* 12/12     | ** Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format **|
 |                  |  |
 
 **University Policies**
