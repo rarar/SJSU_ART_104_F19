@@ -13,5 +13,5 @@ Class Day/Time: TR 6:00pm–8:45pm
 Class Website: https://github.com/rarar/SJSU_ART_104_F19
 
 [GreenSheet](https://github.com/rarar/SJSU_ART_104_F19/blob/master/greensheet.md)
-| [Resources](https://github.com/rarar/SJSU_ART_104_S18/blob/master/resources.md)
+| [Resources](https://github.com/rarar/SJSU_ART_104_F19/blob/master/resources.md)
 | [Class Website](https://github.com/rarar/SJSU_ART_104_F19)
