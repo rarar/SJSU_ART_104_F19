@@ -21,3 +21,4 @@ Resources
 8/22
 1. Mastering Markdown https://guides.github.com/features/mastering-markdown/
 2. SWITCH Archives http://switch.sjsu.edu/archive/archives/index.html
+3. Net Art Anthology https://anthology.rhizome.org
