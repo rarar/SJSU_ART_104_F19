@@ -1,3 +1,7 @@
+**Week 1 Respond
+VR Dirt and Other Stuff 
+P.D. Quick on Sep 1 1995**
+
 In the Switch Journal, it reveals many articles, interviews, and projects in a different section of the topic in the 90s. The area draws me in is Virtual Reality, most of the article here are post around 1994. Conceptually, these article analysis the technology in the 90s, it brings me back to that period time and gives me many interesting viewpoints as well.
 
 The first one I read is called  “An Introduction to Virtual Reality” by Leda Kanellakos post on Nov 30, 1994. It briefs the function and concept of the VR (virtual reality) technology in 1994. It looks the same as I know in this generation. Such as bringing the user in the simulation cyberspace and open up the physical boundaries as well. The aesthetics design and the idea of how to interact user in touch, smell, etc. Also in the Virtual Reality Projects presented on Sep 1, 1995. It showed the technique of Augmented Reality and used Virtual Reality technique on treatment for acrophobia. However, due to the reason of technology, it’s not yet ready to be implemented at home, texture-mapped graphics are too high-priced for the home market. But as he mentions that the VR will develop as the T.V did in the 1940s, which everyone can have one in today’s market. 
