@@ -1,6 +1,6 @@
 **Week 1 Respond**
 
-**VR Dirt and Other Stuff 
+**VR Dirt and Other Stuff By
 P.D. Quick on Sep 1 1995**
 
 In the Switch Journal, it reveals many articles, interviews, and projects in a different section of the topic in the 90s. The area draws me in is Virtual Reality, most of the article here are post around 1994. Conceptually, these article analysis the technology in the 90s, it brings me back to that period time and gives me many interesting viewpoints as well.
