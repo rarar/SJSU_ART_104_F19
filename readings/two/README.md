@@ -1,4 +1,4 @@
-**Reading One: Ways of Seeing**
+**Reading Two: Ways of Seeing**
 ======================
 For the second "reading" of the semester, we will be watching the 1972 four-part series on contemporary art and technology Ways Of Seeing by John Berger. Please watch these episodes (two hours total), and consider how the ideas and concepts apply to technology today. Do these ideas apply to our contemporary interactions with technology? Are images that we interact with on social media representative of our lives? Do those images shape our collective perception of reality? Can this idea be extended into other types of technology? Are images in advertisement campaigns the only form of persuasion in 2018? Can these same concepts be applied to a google search?
 
