@@ -1,4 +1,4 @@
-#READING 2
+# READING 2
 
 The ideas that John Berger presented in the episodes were extremely intriguing. The reason for this is because of how relatable they are to the current times. The ideas presented in such a way that they were modern enough to be able to be thought of and analyzed nowadays. 
 	
