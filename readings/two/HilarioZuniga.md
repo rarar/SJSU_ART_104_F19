@@ -1,0 +1,9 @@
+#READING 2
+
+The ideas that John Berger presented in the episodes were extremely intriguing. The reason for this is because of how relatable they are to the current times. The ideas presented in such a way that they were modern enough to be able to be thought of and analyzed nowadays. 
+	
+An interesting idea brought up was about how women are viewed. In the context of classical European art women were depicted in ways of having a body that was never attainable. They were shown to have overly sexualized bodies that made women see themselves as unattractive. And in the context of modern day it is the same thing. It has actually caused it to happen more because of social media and the extremely wide reach of social media. It is easier for women to be depicted as perfect figures in advertisements or social media post.
+	
+Another idea that caused me to think of artwork being associated with power and prestige. In the past to commission an artwork you had to have some form of power and prestige. Now artworks have shifted from that to just pure monetary value. Artworks are being commissioned by the wealthy and sold to the wealthy for the most part. The new digital world has caused the understanding of traditional arts to be lost. Now with the rise of the digital world the cost of an artwork is what gives you power and prestige. 
+	
+The most interesting thing that I saw was how the camera made artwork lose their uniqueness. With a picture of an artwork one is able to see an artwork from anywhere in the world. In addition to that prints have made it possible for anyone to acquire a replica of an artwork. Art used to belong to a certain place that required one to travel to to view it. This was a part of the experience. With one simple google search art can be looked at from anywhere in the world. Which takes away from the experience and takes away its meaning and uniqueness of an artwork.
