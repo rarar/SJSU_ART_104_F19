@@ -26,4 +26,5 @@ hope for the future the way he did, for people could still change their relation
 their world for the better (https://www.bbc.co.uk/sounds/play/m0004mc4). And finally, Bridle concludes New Ways of Seeing with his series 
 finale, Cybernetic Forests, helping to answer the age-old question, “What is man’s relationship to nature and technology?” If anyone asks 
 Bridle, his replay is that it all depends on how knowledgeable people are about the devices they routinely consume, and on how determined 
-they are to use for things greater than themselves. And if anyone asks for my own opinion, then I would say 
+they are to use for things greater than themselves. And if anyone asks for my own opinion, I would say that as long as cooperation with 
+nature is the first step to even greater cooperation, then I couldn’t agree more with Berger’s and Bridle’s ideals for the familiar utopian society (https://www.bbc.co.uk/sounds/play/m0004sdb).
