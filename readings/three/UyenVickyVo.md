@@ -1,3 +1,13 @@
 # Reading 3
 ## New Ways of Seeing Podcasts 
 ### James Bridle
+
+James Bridle believes that nature and technology can live in harmony. He believes that digital technology has changed how we see the world. The podcasts also explore how artists have inspired and used Ways of Seeing to change the world. My first thought about the relationship between nature and technology is that we already have been living harmoniously with technology. We are nature, technology has made way to our lives. For instance, the first thing most people do when they wake up is checking their phone, and the last thing they do before sleeping is also checking their phone. We live in harmony, however; there are pros and cons in everything. 
+
+Cybernetic Forests is a project from 2 artists from Berlin, this project sounds very interesting as it is a combination of bitcoin and flower. How can anyone even make a relation between bitcoin and flower? It's crazy how the flower token is possible now. Flowers and Nature one day could use that "money" and buy lands from a human.  Now that's pretty cool, it breaks the barrier of what technology can do. I think this is somewhat amazing if could happen. 
+
+Climate change has been such a controversial topic. Different ways of seeing matters. How is technology changing the way we see? James mentioned that technology and nature have 1 thing in common: they are somewhat invisible. We can only see what is there on the surface, but there's so much more that we don't see. I think this is such a strong and accurate statement. That leads to artists and scientist to looking into climate history and influence them into their work, to create awareness, to allow people to look at things differently, to encourage more artist to be more involved, and I think that's such an amazing movement. 
+
+I agree with James that since technology is such a dominant aspect of our life, and we depend on it so much. Why don't we use it, specifically AI to learn about what nature has to offer? He pointed out that even trees know how to communicate with each other from long distance and that nature knows how to care for themselves and one another. We must learn to do so as well by using technology to engage and care for others than our own. 
+
+One of the interviews mentioned that we are living in a disposable culture. We're abusing machine, instead of care for them. This makes me think about how we're treating nature. We also haven't cared for nature either, we are also abusing nature. But with the machine, it's more manmade, it can be made again. But with climate change, we need to remind ourselves that... we only have one earth. 
