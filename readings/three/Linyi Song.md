@@ -4,4 +4,7 @@ The episode introduces the concept of cybernetic forest, an approach that could 
 Machine Visions<p>
 The episode highlights the meanings and impressions derived from the videos and images that circulate online. The speaker argues that various artists are creating videos and images for different purposes and in some cases, these images and videos  may not depict the actual information."The reason for the above is that artists are using digital technologies to manipulate  galleries to convey a different meaning from the original content".The advent of digital images changes not only how we see the world, but also how the world sees us. 
 <p>
+Invisible Networks<p>
+The internet and the real world are linked in very material ways. As argued in the episode, the internet and other digital technologies affect each part of people’s lives. They determine our future and have often changed our world. Although the internet may seem invisible or unrealistic, most people do not understand its impacts and how it works. The changes it brings are hardly visible or recognizable; however, artists make such things visible. 
+
 to be continue
