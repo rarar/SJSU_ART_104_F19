@@ -39,3 +39,16 @@ Resources
 8. Basquiat Record Setting Painting https://www.thefader.com/2017/05/18/jean-michel-basquiat-painting-sold-for-a-record-110-million
 9. Muybridge pre-cinema experiments https://www.sfmoma.org/artist/eadweard_muybridge/
 10. Marshall Mcluhan: The medium is the message https://www.youtube.com/watch?v=ImaH51F4HBw
+
+9/12
+1. Critical Engineering Manifesto: https://criticalengineering.org
+2. Newstweek: https://newstweek.com
+3. James Bridle - One Visible Future: https://onevisiblefuture.tumblr.com/post/44865882761/i-have-something-of-an-obsession-with-the-image
+4. CV Dazzle: https://ahprojects.com/cvdazzle/
+5. SF bans Facial Recognition (NY Times): https://www.nytimes.com/2019/05/14/us/facial-recognition-ban-san-francisco.html
+6. Stephanie Dinkins - PAK: https://www.stephaniedinkins.com/project-al-khwarizmi.html
+7. Zach Blas - Queer Technologies: http://www.zachblas.info/works/queer-technologies/
+8. Nam June Paik - TV Garden: https://www.guggenheim.org/artwork/9537
+9. Paul Pangaro - What is cybernetics: https://www.youtube.com/watch?v=Oad8Ro8j_fE
+10. Julian Oliver - Harvest: https://julianoliver.com/output/harvest
+11. Open Space Observatory: https://openspaceobservatory.org
