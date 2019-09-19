@@ -3,7 +3,6 @@
 ### A short essay on design, science, fact and fiction.
 #### Julian Bleecker - March 2009
 
-Chapter 1:
 In chapter 1, Julian Bleecker explains the meaning of design. One of the things he said about design is that "Design allows you to use your imagination and creativity explicitly." As a designer, I agree with him. The design process is not a one-way street. Design is a journey, an exploration that a designer can take using their creativity. Julian also stated that design can be in various forms, from service design to “computer design” or “database design” or “application design”.  He then raised a question "If design can be a way of creating material objects that help tell a story
 what kind of stories would it tell and in what style or genre?" This is something I'd never thought about. It's such a broad question that I would not know where to begin. If I were to answer this question, I would need to think about what "type" of design is in the context? Is it all design? What is fact and fiction in design? When I hear the term "design fiction", I was thinking of design in an abstract form that tells a story, and "design fact" would be something related to designing a piece of software or hardware where it requires more accuracy and fact. Later in Chapter 1, Julian described and compares between science fiction and design fiction, this is where I start to understand the idea a bit more. 
 
