@@ -1,4 +1,4 @@
-**Reading Response**
+**Reading Response #4**
 
 It is safe to say that my audience is present and accounted for my lecture, so I will get started on addressing the elephant in the room. 
 Regarding the essay Design Fiction by Julian Bleecker, my first discussion point on the docket is the subject itself: design fiction, 
@@ -22,5 +22,5 @@ especially helps artists and designers in making the real world a better place, 
 sciences, facts and fictions together to make relevant narratives that accurately describe what is going on today. As a matter of fact, I 
 have always known lately that between Disney’s heartfelt movies and Geico’s humorous commercials, both companies always love to comment on 
 patterns in human nature and behavior, to help comfort their fans and loved ones to great critical, commercial and audience reactions. It 
-is no wonder then that mastering speculative design demands a constant desire to take risks and try something new in the hope of putting 
-smiles on people faces (https://drbfw5wfjlxon.cloudfront.net/writing/DesignFiction_WebEdition.pdf).
+is no wonder then that mastering speculative design demands a constant desire to take risks and changing current limits in the hope of 
+putting smiles on people faces (https://drbfw5wfjlxon.cloudfront.net/writing/DesignFiction_WebEdition.pdf).
