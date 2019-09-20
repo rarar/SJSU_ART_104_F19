@@ -47,16 +47,14 @@ Participation
 
 •	Participation in class discussions for readings, material that we watch in class, giving feedback to your peers on their work is mandatory. Remember that 20% of your grade is based on your participation in class + topic presentation and you are expected to actively participate in such discourses as they are some of the most important sections of our class.
 
-•	On Presentation days you must be able to explain and give a clear presentation of the topic, research, and concepts. If you have a hard time talking in front of a crowd or remembering your points, use a notebook, powerpoint, sketches or bullet points for your presentations. 
-
 •	For readings that I will be assigning in this course you are required to post your reading response (500 word two pages double spaced) response to our class blog. You are asked to think critically and post something that questions, criticizes, endorses, and/or adds to the reading. See the course outline chart for deadlines for these responses.
 
 Grading Policy
 --------------
 
-**Seminar Participation and Discussion = 10% + 10%**
+**Seminar Participation and Discussion = 20%**
 
-It is required that you attend and participate regularly in seminar discussion, this will account for 10% of your grade. The course includes engaged group dialogue and student-lead presentations of the assigned readings along with visual material. The student-lead presentations will be assigned at the beginning of the semester and your presentation and preparedness will account for an additional 10% of your grade. Students will be assessed based upon their individual level of engagement in seminar and the quality of student-lead presentations as defined in the grading policy/ rubric below. 
+It is required that you attend and participate regularly in seminar discussion, this will account for 10% of your grade. The course includes engaged group dialogue and student-lead presentations of the assigned readings along with visual material. Students will be assessed based upon their individual level of engagement in seminar as defined in the grading policy/ rubric below. 
 
 **Weekly Reading Responses = 60% (12 x 5% each response)**
 
@@ -74,20 +72,20 @@ Schedule
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 08/22      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) Git Registration ** [http://switch.sjsu.edu/archive/archives/index.html](http://switch.sjsu.edu/archive/archives/index.html) Read one to three articles from the SWITCH Archives and post your response in the Reading One folder |
-| *Week 2* 08/29     | **Reading 1 Due** ** Presentation + Discussion ** **Reading 2: Assigned in Class** ** Introduction to HTML |
-| *Week 3* 09/5     | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: Assigned in Class** Website Setup and Git Pipeline |
-| *Week 4* 09/12      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: Assigned in Class** ** HTML 2 |
-| *Week 5* 09/19      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Assigned in Class** ** Forming SWITCH Groups and Begin Working on site design|
-| *Week 6* 09/26      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: Assigned in Class** ** Final Paper Requirements Posted to the Git. Students will present their ideas on 11/11 to the class. |
-| *Week 7* 10/03      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: Assigned in Class** ** Group Work Beginning Research For Final |
-| *Week 8* 10/10      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography**|
+| *Week 2* 08/29     | **Reading 1 Due** ** Discussion ** **Reading 2: Ways of Seeing parts 1-4** https://www.youtube.com/watch?v=0pDE4VX_9Kk https://www.youtube.com/watch?v=m1GI8mNU5Sg https://www.youtube.com/watch?v=Z7wi8jd7aC4 https://www.youtube.com/watch?v=5jTUebm73IY |
+| *Week 3* 09/5     | **Reading 2 Due** ** Discussion ** **Reading 3: New Ways of Seeing** https://www.bbc.co.uk/programmes/m0004sdb https://www.bbc.co.uk/programmes/m0004mc4 https://www.bbc.co.uk/programmes/m0004f3h https://www.bbc.co.uk/programmes/m000458l |
+| *Week 4* 09/12      | **Reading 3 Due** ** Discussion ** **Reading 4: Julian Bleecker's Design Fiction** https://drbfw5wfjlxon.cloudfront.net/writing/DesignFiction_WebEdition.pdf |
+| *Week 5* 09/19      | **Reading 4 Due** ** Discussion ** **Reading 5: Assigned in Class** ** Forming SWITCH Groups|
+| *Week 6* 09/26      | **Reading 5 Due** ** Discussion ** **Reading 6: Assigned in Class** ** Final Paper Requirements Posted to the Git. Students will present their ideas on 10/10 to the class. |
+| *Week 7* 10/03      | **Reading 6 Due** ** Discussion ** **Reading 7: Assigned in Class** ** Group Work Beginning Research For Final |
+| *Week 8* 10/10      | **Reading 7 Due** ** Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography**|
 | *Week 9* 10/17      | **Reading 8 Due to class Git** **Reading 9: assigned in class** ** Research and in class work on papers |
 | *Week 10* 10/24     | **Reading 9 Due to class Git** **Reading 10: assigned in class** ** Research and in class work on papers |
-| *Week 11* 10/31     | ** Presentation + Discussion ** **No Reading Assigned for Next week: First Draft of Final Due** ** Research and in class work on papers |
+| *Week 11* 10/31     | ** Discussion ** **No Reading Assigned for Next week: First Draft of Final Due** ** Research and in class work on papers |
 | *Week 12* 11/7     | First Draft of Final Papers Due ** Presentation + Discussion ** Reading 10: assigned in class ** Research and in class work on papers **** |
 | *Week 13* 11/11     | ATC 9-12:30 MLK 225 |
 | *Week 13* 11/12     | ATC 9-12:30 MLK 225 |
-| *Week 14* 11/21     | ** Presentation + Discussion ** Reading 11: assigned in class ** Research and in class work on papers|
+| *Week 14* 11/21     | ** Discussion ** Reading 11: assigned in class ** Research and in class work on papers|
 | *Week 15* 11/28     | ** Thanksgiving **|
 | *Week 16* 12/5     | ** Reading 11 Extra Credit Due Research and in class work on papers **|
 | *Week 16* 12/12     | ** Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format **|
