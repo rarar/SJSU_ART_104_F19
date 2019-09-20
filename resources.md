@@ -52,3 +52,9 @@ Resources
 9. Paul Pangaro - What is cybernetics: https://www.youtube.com/watch?v=Oad8Ro8j_fE
 10. Julian Oliver - Harvest: https://julianoliver.com/output/harvest
 11. Open Space Observatory: https://openspaceobservatory.org
+
+9/19
+1. Near Future Laboratory: http://nearfuturelaboratory.com
+2. The Creepy Rise of Real Companies Spawning Fictional Design (Wired): https://www.wired.com/story/the-creepy-rise-of-real-companies-spawning-fictional-design/
+3. Discursive Design: https://www.discursivedesign.com
+4. Dunne & Raby: http://dunneandraby.co.uk
