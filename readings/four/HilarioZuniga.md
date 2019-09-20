@@ -4,9 +4,9 @@ Bleecker begins his short essay with describing what design was in chapter 1. He
 
 >Science fiction can be understood as a kind of writing that, in its stories, creates prototypes of other worlds, other experiences, other contexts for life-based on the creative insights of the author. Designed objects — or designed fictions — can be understood similarly.
 
-Design fiction is a way of exploring different approaches to making things, probing the material conclusions of your imagination, removing the usual constraints when designing for massive market commercialization — the ones that people in blue shirts and yellow ties call “realistic.”
+>Design fiction is a way of exploring different approaches to making things, probing the material conclusions of your imagination, removing the usual constraints when designing for massive market commercialization — the ones that people in blue shirts and yellow ties call “realistic.”
 
-Design fiction is a hybrid, hands-on practice that operates in a murky middle ground between ideas and their materialization, and between science fact and science fiction
+>Design fiction is a hybrid, hands-on practice that operates in a murky middle ground between ideas and their materialization, and between science fact and science fiction
 
 After reading these quotes I now understand that term better, however, I am still confused as to exactly what he means by it. Bleecker gives many different explanations to the definition of what he means by design fiction. However, it still remains a term that is difficult to understand. From what I read in this chapter I would say that design fiction is like telling a story of a design in which you aren’t limited to the constraints you might usually be held back by, for example like money or materials. Which could explain why he chooses to relate design fiction to science fiction, because in science fiction one is not constrained by the normal rules of science like the laws of physics. 
 
