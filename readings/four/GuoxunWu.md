@@ -1,4 +1,4 @@
-Reading Four
+**Reading Four**
 
 In the reading for this week, first, it reminds me of many technologies occur in the science movie in the last decade, they come real in today's world. Also, once the artist working on something illusion, he must learn the knowledge behind it first. It interests me. Anyway, In Julian Bleecker's paper “Design Fiction A short essay on design, science, fact, and fiction”, examines the concept of design-fiction, reviews and analyzes the combination of scientific facts and science fiction, the relationship between science and fiction, and explores how fiction affects the formation of the future. In his research of well-known examples of science fiction, he finds some aspects of design fiction in them.
 
