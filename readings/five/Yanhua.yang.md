@@ -9,3 +9,11 @@ There are many objects, such as furniture, building, and clothes designed for ri
 Many products are designed for massives in China and many other countries as well because they do not want to take risks to produce an object to a small group of people in case they get not enough benefits. For examples: The wheelchairs can not access to the bus in China because merchants do not consider their needs because they are small population without much benefits for them. Star-bucks have developed many types of coffee and small gifts such as cups, toys, and moon cake and sell them as higher prices than America in China. Keep changing their products to stimulate people to buy more and more. Those are not designer. The purpose of the design has changed due to commercial values. They are designing more and more trash on the planet. 
 
 The voting system has changed due to the use of AI technology. The method of design is another topic of authority and power, which we can do nothing excepting to change the political system. 
+
+What differences between design and art: 
+Art can be an experience that you can not change and idea without any material product.
+Design is more concrete and physical. The goal of design is to make space, athetic, and function more suitable for their environment or people. 
+
+
+
+
