@@ -12,7 +12,7 @@ The voting system has changed due to the use of AI technology. The method of des
 
 What differences between design and art: 
 Art can be an experience that you can not change and idea without any material product.
-Design is more concrete and physical. The goal of design is to make space, athetic, and function more suitable for their environment or people. 
+Design is more concrete and physical. The goal of design is to make space, asthetic, and function more suitable for the environment or people. 
 
 
 
