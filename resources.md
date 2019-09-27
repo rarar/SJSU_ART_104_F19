@@ -58,3 +58,14 @@ Resources
 2. The Creepy Rise of Real Companies Spawning Fictional Design (Wired): https://www.wired.com/story/the-creepy-rise-of-real-companies-spawning-fictional-design/
 3. Discursive Design: https://www.discursivedesign.com
 4. Dunne & Raby: http://dunneandraby.co.uk
+
+9/26
+1. Objectfied (Documentary): https://www.hustwit.com/objectified
+2. Speculative Design Awards (Core77): https://designawards.core77.com/2019/speculative-design
+3. Aimee Mullins - My 12 Pairs of Legs: https://www.ted.com/talks/aimee_mullins_prosthetic_aesthetics?language=en
+4. Leonardo Da Vinci's Ornithopter (1487): http://www.leonardo-da-vinci.net/ornithopter/
+5. Dali and his Venus: https://www.youtube.com/watch?v=v4_wwHxnV5Q
+6. Stelarc (Wired article): https://www.wired.com/2012/05/stelarc-performance-art/
+7. Stelarc (video from Motherboard): https://www.youtube.com/watch?v=ZNdV8Ilw9Nc
+8. Rebecca Horn's Finger Gloves: https://ablersite.org/2010/06/01/affinities-rebecca-horns-finger-gloves/
+9. Guardian review of Lives and Limbs exhibition: - https://www.theguardian.com/artanddesign/2016/jul/15/lives-and-limbs-how-prosthetics-transformed-the-art-world
