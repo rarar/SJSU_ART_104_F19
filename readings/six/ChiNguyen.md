@@ -1,4 +1,4 @@
-** Reading Response #6 **
+**Reading Response #6**
 
 In my honest opinion, even the word “Xenofeminism” as described in Laboria Cuboniks’ Xenofeminist Manifesto: A Politics for Alienation; this
 new word alone is already the first obstacle of a lesson I am learning from this art essay. So, first things first, we should find out its 
