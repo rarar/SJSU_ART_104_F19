@@ -1,4 +1,4 @@
-** Reading Six: Xenofeminism
+## Reading Six: Xenofeminism
 
 This was an interesting read. It is a read that can be done, but your attention can no fail you once or you will be completely lost as to what is happening. I found it extremely interesting to read. I will be adressing the sections of the reading thjat I found most interesting and then at the end I will try and tie everything togrther. 
 
