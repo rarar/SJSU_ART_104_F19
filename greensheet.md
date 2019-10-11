@@ -75,7 +75,7 @@ Schedule
 | *Week 2* 08/29     | **Reading 1 Due** ** Discussion ** **Reading 2: Ways of Seeing parts 1-4** https://www.youtube.com/watch?v=0pDE4VX_9Kk https://www.youtube.com/watch?v=m1GI8mNU5Sg https://www.youtube.com/watch?v=Z7wi8jd7aC4 https://www.youtube.com/watch?v=5jTUebm73IY |
 | *Week 3* 09/5     | **Reading 2 Due** ** Discussion ** **Reading 3: New Ways of Seeing** https://www.bbc.co.uk/programmes/m0004sdb https://www.bbc.co.uk/programmes/m0004mc4 https://www.bbc.co.uk/programmes/m0004f3h https://www.bbc.co.uk/programmes/m000458l |
 | *Week 4* 09/12      | **Reading 3 Due** ** Discussion ** **Reading 4: Julian Bleecker's Design Fiction** https://drbfw5wfjlxon.cloudfront.net/writing/DesignFiction_WebEdition.pdf |
-| *Week 5* 09/19      | **Reading 4 Due** ** Discussion ** **Reading 5: Assigned in Class** ** |
+| *Week 5* 09/19      | **Reading 4 Due** ** Discussion ** **Reading 5: Alice Rawthson: Why Good Design Matters https://github.com/rarar/SJSU_ART_104_F19/blob/master/docs/Why%20good%20design%20matters%20-%20Alice%20Rawsthorn.pdf ** |
 | *Week 6* 09/26      | **Reading 5 Due** ** Discussion ** **Reading 6: Assigned in Class** ** |
 | *Week 7* 10/03      | **Reading 6 Due** ** Discussion ** **Reading 7: Assigned in Class** ** |
 | *Week 8* 10/10      | **Reading 7 Due** ** Discussion ** **Reading 8: assigned in class** ** Final Paper Requirements Posted to the Git. Students will present their ideas on 10/17 to the class. Forming SWITCH Groups.|
