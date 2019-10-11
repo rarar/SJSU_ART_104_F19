@@ -78,8 +78,8 @@ Schedule
 | *Week 5* 09/19      | **Reading 4 Due** ** Discussion ** **Reading 5: Assigned in Class** ** Forming SWITCH Groups|
 | *Week 6* 09/26      | **Reading 5 Due** ** Discussion ** **Reading 6: Assigned in Class** ** Final Paper Requirements Posted to the Git. Students will present their ideas on 10/10 to the class. |
 | *Week 7* 10/03      | **Reading 6 Due** ** Discussion ** **Reading 7: Assigned in Class** ** Group Work Beginning Research For Final |
-| *Week 8* 10/10      | **Reading 7 Due** ** Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography**|
-| *Week 9* 10/17      | **Reading 8 Due to class Git** **Reading 9: assigned in class** ** Research and in class work on papers |
+| *Week 8* 10/10      | **Reading 7 Due** ** Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers|
+| *Week 9* 10/17      | **Reading 8 Due to class Git** **Reading 9: assigned in class** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography** |
 | *Week 10* 10/24     | **Reading 9 Due to class Git** **Reading 10: assigned in class** ** Research and in class work on papers |
 | *Week 11* 10/31     | ** Discussion ** **No Reading Assigned for Next week: First Draft of Final Due** ** Research and in class work on papers |
 | *Week 12* 11/7     | First Draft of Final Papers Due ** Presentation + Discussion ** Reading 10: assigned in class ** Research and in class work on papers **** |
