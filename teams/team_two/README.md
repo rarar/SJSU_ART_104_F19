@@ -11,3 +11,5 @@ With new technology, the artificial intelligence incorporated into more aspects 
 
 Source:
 https://www.bbvaopenmind.com/en/articles/artificial-intelligence-and-the-arts-toward-computational-creativity/
+https://towardsdatascience.com/artificial-artist-can-artificial-intelligence-create-art-d7dd6ed98270
+https://cai.tools.sap/blog/how-artificial-intelligence-disrupts-the-art-world/
