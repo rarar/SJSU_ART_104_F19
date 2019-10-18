@@ -24,6 +24,9 @@ opportunity to earn more money, make great company, or more power？I don't have
 They will definitely have the potencial to motopolize the everything in the future.
 
 Second, the implementation of AI
-There 99% darkside of earth is waiting for to discover, might have more resources that we can share and increase our quality of life;
+The darkside of earth is waiting for to discover, might have more resources that we can share and increase our quality of life;
 Many landmine needed to be destroied which left behind by wars;
-I saw many people clean the bathroom in HongKong airport...
+I saw many people clean the bathroom in HongKong airport;
+I don't know how robot help disabled people because they need more care than regular people, I meant the emotional comfort/
+If they are ok with robot rather than nobody especially in America, and I am not sure the robots can satisfy their needs if 
+they want a kiss or hug. By contrast, if people can be satisfied by robots, they mas y menos as robot too. 
