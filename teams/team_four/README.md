@@ -13,23 +13,22 @@ Theme: Design Fiction
 
 Source: 
 
-1)Design Fiction (Reading in class) https://drbfw5wfjlxon.cloudfront.net/writing/DesignFiction_WebEdition.pdf
+1) https://ghr.nlm.nih.gov/primer/genomicresearch/genomeediting
 
-2) Book "Speculative Everything: Design, Fiction, and Social Dreaming" (Van's source)
-https://books.google.com/books?hl=en&lr=&id=9gQyAgAAQBAJ&oi=fnd&pg=PR5&dq=design+fiction+projects&ots=EEM1E-ai9g&sig=5AnzgMLap4JEBzssVWLC4gtBHOg#v=onepage&q=design%20fiction%20projects&f=false
+2) https://www.leafscience.org/would-i-want-a-designer-baby/
 
-3) https://www.veronicaranner.com/biophilia-organ-crafting (Van's source)
+3) https://embryo.asu.edu/pages/ethics-designer-babies
 
-4) https://www.paconsulting.com/insights/design-fiction-harnessing-myths-of-our-future/ (Janese's)
+4) https://qz.com/952236/a-new-crispr-thriller-makes-gene-editing-terrifyingly-easy-for-anyone-to-understand/
 
-5) https://www.leafscience.org/would-i-want-a-designer-baby/
+5) https://www.nature.com/articles/gim201628.pdf?origin=ppub
 
 
 Parts:
 
-1) Bioengineering (Designer Baby) (briefly introduce what is bioengineering) (YingHong)
+1) Bioengineering (Designer Baby) (briefly introduce what is bioengineering & CRISPR/Cas9) (YingHong)
 
-2) Idea 1:____In detail what happened___________ (Janese)
+2) Idea 1:____In detail what happened Designer Baby JianKui He___________ (Janese)
 
 3) Idea 2:______Why the science community was upset with it (YanHua)
 
