@@ -18,3 +18,5 @@ https://towardsdatascience.com/artificial-artist-can-artificial-intelligence-cre
 https://cai.tools.sap/blog/how-artificial-intelligence-disrupts-the-art-world/
 
 https://www.express.co.uk/news/science/1018786/Artificial-intelligence-AI-robots-replace-humans-machines-take-over-jobs
+
+https://blogs.scientificamerican.com/observations/can-ai-create-true-art/
