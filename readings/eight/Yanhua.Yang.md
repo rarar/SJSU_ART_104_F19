@@ -1,0 +1,24 @@
+Reading 8 Response:
+
+I am very interested in the sharing emonomy that you mentioned, but I did not find any of them during the reading.
+I might miss some point. I grabed one sentense which is very useful for me: Does speed reading increase one's intelligence.:)
+
+The underling meaning of the topic is to explain how internet tramsformed our way of living.
+
+First, AI (machining learning)considered as an act of approprriation even though SS artist didn't express her opinion 
+firmly, but I will use the sentence from the topic to explain what I am feeling: As the invention of new technology is
+also the invention of a new type of accident such as subvert power relationship. 
+
+Competitive and innovation are always stay together like brothers. When advanced technology can transform the genes to be more
+intelligent and talented, People who can afford the price will try their best to make it changed. It like one's cosmetic
+surgery is anoter one's psychic loss, still many people won't stop doing it because one's gaim is another one's loss. (From TED
+Talk) People want to play a fair game. 
+
+When robot became popular, they are sure to replace a lot of humane jobs. First, they will never get tired can be used forever
+if costomer service is quality and effective. Employer will gain a lot of benefits from robotic labors in terms of buying
+insurance, and family insurance, some housing or life subsidies, and food or something. They do not need to have coffee room
+and kichen as well. Robot are all set without needing to be trained or education. Capitalist can use them immediately if they
+need them to achieve something real quick. They will save a lot of their cost. Do you think they will give up the great 
+opportunity to earn more money, make great company, or more power？I don't have any positive assumption about robot world. 
+
+They will definitely have the potencial to motopolize the everything in the future.
