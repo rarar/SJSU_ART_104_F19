@@ -38,5 +38,5 @@ not necessary to be needed. I do not think this will happen.
 
 Whether Artist can chang the situation?
 In this country given and taken hasn't ever balanced. After Trump's administration, the things become more serious. I think
-selfish culture should be more than welcome robots to live within them. 
+the selfish culture tend to adopt robot to live within them. 
 I do believe there are many scholars or many people are trying their best to change the current situation.
