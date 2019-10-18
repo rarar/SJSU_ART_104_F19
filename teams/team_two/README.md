@@ -11,7 +11,7 @@ With new technology, the artificial intelligence incorporated into more aspects 
 
 Parts:
 
-Can robots is creative? Can they replace the artist in future? What impact bring from the AI art?
+Can robots is creative? Can they replace the artist in future? What impact bring from the AI art? How we collabrate with AI?
 
 Source:
 
