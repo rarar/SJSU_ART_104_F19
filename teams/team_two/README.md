@@ -11,7 +11,7 @@ With new technology, the artificial intelligence incorporated into more aspects 
 
 Parts:
 
-Who have ownership of the art project that create by the AI? Is artist? Is the machine or software?
+Who have ownership of the art project that create by the AI? Is artist? Is the machine or software? If a robot create a art work, but the robot is create by a person, who have ownership of that art work?
 
 Source:
 
@@ -24,5 +24,3 @@ https://cai.tools.sap/blog/how-artificial-intelligence-disrupts-the-art-world/
 https://www.express.co.uk/news/science/1018786/Artificial-intelligence-AI-robots-replace-humans-machines-take-over-jobs
 
 https://www.weforum.org/agenda/2017/12/who-owns-the-work-that-ai-creates/
-
-https://www.artsy.net/article/artsy-editorial-art-created-artificial-intelligence-sells-paid
