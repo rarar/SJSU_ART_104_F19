@@ -1,7 +1,8 @@
 Reading 8 Response:
 
 I am very interested in the sharing emonomy that you mentioned, but I did not find any of them during the reading.
-I might miss some point. I grabed one sentense which is very useful for me: Does reading speed increase one's intelligence.:)
+I might miss some point, or do you mean the web: Fiverr.com. 
+I grabed one sentense which is very useful for me: Does reading speed increase one's intelligence.:)
 
 The underling meaning of the topic is to explain how internet tramsformed our way of living.
 
