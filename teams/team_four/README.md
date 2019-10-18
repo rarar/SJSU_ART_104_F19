@@ -27,13 +27,13 @@ https://books.google.com/books?hl=en&lr=&id=9gQyAgAAQBAJ&oi=fnd&pg=PR5&dq=design
 
 Parts:
 
-1) Introduction of Design Fiction (YingHong)
+1) Bioengineering (Designer Baby) (briefly introduce what is bioengineering) (YingHong)
 
-2) Idea 1:____ Design ficion in Media?___________ (Janese)
+2) Idea 1:____In detail what happened___________ (Janese)
 
-3) Idea 2:___________Design Fiction in New Technology (Organ Crafting) "If Meat is biochem produced, will vegetarians eat it?" __(Van)
+3) Idea 2:______Why the science community was upset with it (YanHua)
 
-4) Idea 3:_______________ (YanHua)
+4) Idea 3:______Future ramifications of bioengineering humans_________ (Van)
 
 5) Sum up the ideas.  (YingHong)
 
