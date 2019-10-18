@@ -16,3 +16,5 @@ https://www.bbvaopenmind.com/en/articles/artificial-intelligence-and-the-arts-to
 https://towardsdatascience.com/artificial-artist-can-artificial-intelligence-create-art-d7dd6ed98270
 
 https://cai.tools.sap/blog/how-artificial-intelligence-disrupts-the-art-world/
+
+https://www.express.co.uk/news/science/1018786/Artificial-intelligence-AI-robots-replace-humans-machines-take-over-jobs
