@@ -29,4 +29,14 @@ Many landmine needed to be destroied which left behind by wars;
 I saw many people clean the bathroom in HongKong airport;
 I don't know how robot help disabled people because they need more care than regular people, I meant the emotional comfort/
 If they are ok with robot rather than nobody especially in America, and I am not sure the robots can satisfy their needs if 
-they want a kiss or hug. By contrast, if people can be satisfied by robots, they mas y menos as robot too. 
+they want a kiss or hug. By contrast, if people can be satisfied by robots, they mas y menos as robot too.
+
+
+Do we neend work in the future?
+I do not think I am ok let robot work for me to earn living things for survive. If they can do anything, human-beings should
+not necessary to be needed. I do not think this will happen. 
+
+Whether Artist can chang the situation?
+In this country given and taken hasn't ever balanced. After Trump's administration, the things become more serious. I think
+selfish culture should be more than welcome robots to live within them. 
+I d
