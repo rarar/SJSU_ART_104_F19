@@ -24,3 +24,5 @@ https://cai.tools.sap/blog/how-artificial-intelligence-disrupts-the-art-world/
 https://www.express.co.uk/news/science/1018786/Artificial-intelligence-AI-robots-replace-humans-machines-take-over-jobs
 
 https://www.weforum.org/agenda/2017/12/who-owns-the-work-that-ai-creates/
+
+https://www.wipo.int/wipo_magazine/en/2017/05/article_0003.html
