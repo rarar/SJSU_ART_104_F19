@@ -22,3 +22,8 @@ need them to achieve something real quick. They will save a lot of their cost. D
 opportunity to earn more money, make great company, or more power？I don't have any positive assumption about robot world. 
 
 They will definitely have the potencial to motopolize the everything in the future.
+
+Second, the implementation of AI
+There 99% darkside of earth is waiting for to discover, might have more resources that we can share and increase our quality of life;
+Many landmine needed to be destroied which left behind by wars;
+I saw many people clean the bathroom in HongKong airport...
