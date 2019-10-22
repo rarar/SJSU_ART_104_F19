@@ -69,3 +69,13 @@ Resources
 7. Stelarc (video from Motherboard): https://www.youtube.com/watch?v=ZNdV8Ilw9Nc
 8. Rebecca Horn's Finger Gloves: https://ablersite.org/2010/06/01/affinities-rebecca-horns-finger-gloves/
 9. Guardian review of Lives and Limbs exhibition: - https://www.theguardian.com/artanddesign/2016/jul/15/lives-and-limbs-how-prosthetics-transformed-the-art-world
+
+10/3
+— no class —
+
+10/10 & 10/17
+1. Team Human (Douglas Rushkoff): https://teamhuman.fm
+2. How to Do Nothing (Jenny Odell): https://www.youtube.com/watch?v=izjlP9qtmBU
+3. VNS Matrix Oral History: https://www.vice.com/en_us/article/z4mqa8/an-oral-history-of-the-first-cyberfeminists-vns-matrix
+4. A Cyberfeminist Manifesto for the 21st Century: https://anthology.rhizome.org/a-cyber-feminist-manifesto-for-the-21st-century
+5. Mozilla IRL Podcast: https://irlpodcast.org
