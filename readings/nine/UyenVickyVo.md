@@ -1,1 +1,12 @@
+# Reading Nine Respond
+## Towards a Poetics of Artifical Super Intelligence
 
+From my understanding, ASI is even more powerful than AI because of (unlimited) cognitive power. Could ASI be more powerful than humans? In my opinion, yes and no. 
+
+Yes: ASI could be smarter than a person depends on how it's being program and train. ASI has superintelligent machine learning skill that is faster, smarter and extremely powerful. ASI can be predictable, yet, unpredictable. You can program it to do a certain thing as predicted, but/and over time, it could potentially program itself to do other things that you did not predict. It's quite creepy and scary. At the moment, AI exists in a control form. I find it quite fascinating how us human can even detect what's the current safe limit of AI before it dominates our species. Reading about ASI reminds me of an event about how Facebook had to shut down one of their AI programs because 2 AI experiments created their own language and talked to each other. Now, that is scary. I guess at the moment, that's the limit. I like the idea where Nora Khan compares ASI to the alien. I believe most of us think about AI and ASI that way but wasn't sure what the right "definition" would be. AI & ASI are invisible, strange, creepy and most importantly, each of us has our own"image" of it, just like how each of us would imagine what an alien looks like. 
+
+>  ‘How can you reason, how can you bargain, how can you understand how [a] machine is thinking when it’s thinking in dimensions you can’t conceive of?’
+
+No: ASI could think beyond what our human brain can comprehend. But both AI and ASI don't have EI, emotional intelligence. I believe lacking EI, their ability to make a decision would be off. When I think of AI and ASI, I think of a non-stop train that goes super high speed. They can think .. think .. and think super fast and there is no time for decision or to check moral compass (which they don't have). However, lacking emotional intelligent maybe a piece of luck. Imagine if they have both advanced cognitive power but also emotional intelligence, we would have to get ready for world domination. 
+
+There are pros and cons to everything. In this case, I think our future of computing and technology is now on another level. With the help of AI and ASI, the future of healthcare tech, biotech, education, computing, and science, in general, would be beneficial. However; I'm quite scared. Knowing how advanced they could be, I hope AI and ASI won't be a threat to our humankind.
