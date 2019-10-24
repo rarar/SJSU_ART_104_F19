@@ -1,4 +1,5 @@
 **Reading Response #9**
+
 Dear Art 104,
 If I had known that we would eventfully have regular discussions on digital identity, I really would have brought in the most appropriate 
 experts I know to help clarify the subject. Yes, I would have invited Jackie, Matt, Inez, Digit, Dr. Marbles and Motherboard, over to my 
