@@ -23,9 +23,11 @@ Source:
 
 5) https://www.nature.com/articles/gim201628.pdf?origin=ppub
 
-6)https://www.technologyreview.com/s/614051/crispr-baby-maker-explored-starting-a-business-in-designer-baby-tourism/
+6) https://www.technologyreview.com/s/614051/crispr-baby-maker-explored-starting-a-business-in-designer-baby-tourism/
 
 7) https://www.wired.com/story/he-jiankui-crispr-babies-bucked-own-ethics-policy/?fbclid=IwAR39lgPw0F9-oX212UWyPnPrAIuluHM5ojCDLuCs2TQ3Yi-D1rn39idzU5Q&mbid=social_fb&utm_brand=wired&utm_campaign=wired&utm_medium=social&utm_social-type=owned&utm_source=facebook
+
+8) https://www.conserve-energy-future.com/pros-and-cons-of-genetic-engineering.php
 
 
 Parts:
