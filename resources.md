@@ -79,3 +79,10 @@ Resources
 3. VNS Matrix Oral History: https://www.vice.com/en_us/article/z4mqa8/an-oral-history-of-the-first-cyberfeminists-vns-matrix
 4. A Cyberfeminist Manifesto for the 21st Century: https://anthology.rhizome.org/a-cyber-feminist-manifesto-for-the-21st-century
 5. Mozilla IRL Podcast: https://irlpodcast.org
+
+10/24
+1. Jaron Lanier - How we need to remake the Internet: https://www.ted.com/talks/jaron_lanier_how_we_need_to_remake_the_internet/up-next
+2. Facebook Horizon: https://www.youtube.com/watch?v=Is8eXZco46Q
+3. Trevor Paglen's latest work: https://news.artnet.com/art-world/imagenet-roulette-trevor-paglen-kate-crawford-1658305
+4. Nick Bostrom - What happens when computers get smarter than we are? https://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are
+5. Microsoft's Tay: https://www.theguardian.com/world/2016/mar/29/microsoft-tay-tweets-antisemitic-racism
