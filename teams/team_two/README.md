@@ -32,3 +32,6 @@ https://pdfs.semanticscholar.org/299e/7cc22099457bab0de1327237c4916c4fa4e5.pdf
 https://bi.gale.com/essentials/article/GALE%7CA439635275/6e9374db97f7d59d1376321c32db7a9a?u=csusj
 
 https://books.google.com/books?id=UkmqDwAAQBAJ&pg=PT70&lpg=PT70&dq=Stewart,+Daxton+R+The+Future+of+Copyright+Law,+Both+Real+and+Virtual.&source=bl&ots=ECy2tW6iSZ&sig=ACfU3U2XT0GsRdUn5ERFRUSVucM16Rz1Mg&hl=en&sa=X&ved=2ahUKEwjYl6u7mbblAhU8HTQIHSzcAboQ6AEwAXoECAgQAQ#v=onepage&q=Stewart%2C%20Daxton%20R%20The%20Future%20of%20Copyright%20Law%2C%20Both%20Real%20and%20Virtual.&f=false
+
+Google doc link
+https://drive.google.com/drive/u/0/folders/1DlIds7FYudQyEcEKQt1oaOf5zi_kVeAs
