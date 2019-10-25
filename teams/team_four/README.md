@@ -30,7 +30,7 @@ Parts:
 
 2) Idea 1:____In detail what happened Designer Baby JianKui He___________ (Janese)
 
-3) Idea 2:______Why the science community was upset with it (YanHua)
+3) Idea 2:______Why the science community was upset with it (About design baby)(YanHua)(Find article for research)
 
 4) Idea 3:______Future ramifications of bioengineering humans_________ (Van)
 
