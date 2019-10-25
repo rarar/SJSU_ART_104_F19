@@ -15,9 +15,7 @@ Sustainability (more specifically, in relation to design)
 
 Sustainability in tech
 
-Art patronage
-
-Evolution of art mediums
+Art patronage influencing art media
 
 **Emilios Focus**
 
