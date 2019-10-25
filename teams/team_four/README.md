@@ -25,6 +25,8 @@ Source:
 
 6)https://www.technologyreview.com/s/614051/crispr-baby-maker-explored-starting-a-business-in-designer-baby-tourism/
 
+7) https://www.wired.com/story/he-jiankui-crispr-babies-bucked-own-ethics-policy/?fbclid=IwAR39lgPw0F9-oX212UWyPnPrAIuluHM5ojCDLuCs2TQ3Yi-D1rn39idzU5Q&mbid=social_fb&utm_brand=wired&utm_campaign=wired&utm_medium=social&utm_social-type=owned&utm_source=facebook
+
 
 Parts:
 
@@ -38,5 +40,9 @@ Parts:
 
 5) Sum up the ideas.  (YingHong)
 
+
+Abstract
+
+Genome editing has become a possibility with the first genome editing technology introduced in the late 1900s. In 2009, a new genome editing was created called clustered regularly interspaced short palindromic repeats and CRISPR- associated protein 9, CRISPR-Cas9 for short. This development in technology allows humans to edit strands of DNA to prevent and treat diseases. However, this technology can also be used for more than that. What if people can start designing their offspring. They can have a baby without diseases and even better maybe women would not have to go through the pain of giving birth. This is exactly what JianKui, a Chinese scientist did. He was a Chinese scientist who through his idea for a company that would genetically engineer children to resist heart attacks, HIV, and other health problems led him to create the world’s first gene-edited babies. He created the first set of gene-edited human baby twins, he named Lulu and Nana. These twins have a genetic mutation that makes them more resistant to HIV. JianKui, however, broke several ethnic guidelines in the science community to achieve this. The science community was outraged by his unethical conduct. JianKui was arrested under the reasoning that he had violated state laws in pursuit of personal fame and fortune. Besides the ethical and legal problems with this issue, now the possibility of growing your own designer baby has become a reality, the world needs to rethink their values on this. Should humans be able to genetically modify their children so that they are resistant to certain diseases or even look a certain way? What are the problems that could arise if this were approved by society? In this paper, we will discuss about the creation of designer babies and the possible impacts it could have in future societies.
 
 
