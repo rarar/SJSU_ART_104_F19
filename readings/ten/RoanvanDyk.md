@@ -1,6 +1,6 @@
 To do nothing, to really do nothing, is a bit more difficult than I previously imagined.
 
-In general, our cultural training dominantly promotes active manipulation of the external environment through analysis and judgment, and tends to devalue the receptive mode which consists of observation and intuition… Software for People: Collected Writings
+>In general, our cultural training dominantly promotes active manipulation of the external environment through analysis and judgment, and tends to devalue the receptive mode which consists of observation and intuition… (Software for People: Collected Writings)
 
 Everywhere I go, every piece of information that enters through my senses is processed and immediately judged. It happens inherently without thought. A gut reaction to a certain smell or combination of attire is automatically analyzed and categorized, even if its a simple, “yes, I like,” or “no, I don’t like.” I guess truly doing nothing is merely awareness. The meditation app I use tells me to focus only on my breath and when my thoughts begin to wander, return to the breath. Start over. If an emotion jumps in—anxiety, anger, sleepiness—note that its there, but return to the breath. I suppose translating that to doing nothing without intentional mediation requires observation of our surroundings and observing things as they are. 
 
