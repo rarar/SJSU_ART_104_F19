@@ -31,10 +31,10 @@ In the long river of the universe, human existence is only an instant。 In the 
 will realise how small we are and many things are just so trivial. We will not take for granted from nature rather we will
 be thankful and friendly, but not overvalue ourselves to spend more time with people. We will know every individual are acutally precious and worth you to devote some time to them. They are all great even though they did not achieve any level. You never know when you do not think they deserve your time. Everyone should ask self one question: how great you are? what you have to deserve other to take? what makes you feel worth with computer rather than trusting people can benefit you more?
 
-W
-if you keep your eyes far away not just the place you live. e
-if you keep your eyes far away not just the place you live.  
-if you keep your eyes far away not just the place you live.
-
+When you know you are nothing without someone else's existence, you will not take everything for granted without appreciation.
+Everything we take is from nature. Let me figure out the process: first, we live with energy. Food is evergy, fuel is energy,
+sunshine is energy...how energy comes from. Sun raised plants, plants raised animals, animals raised human, human raised 
+children. Without trees, we do not have fresh air and fresh water. Human are great, but nature are greater than humans because
+we are created by nature. 
 
 
