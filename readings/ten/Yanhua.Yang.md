@@ -29,7 +29,7 @@ meet a famous person in glocery store and he told me that living life with philo
 
 In the long river of the universe, human existence is only an instant。 In the long river of human time, the existence of an individual is only a small tiny point. Appreciating the majestic nature even enjoy the sunchine can lead us to be humble. We
 will realise how small we are and many things are just so trivial. We will not take for granted from nature rather we will
-be thankful and friendly, but not overvalue ourselves to spend more time with people. We will know every individual are acutally precious and worth you to devote some time to them. They are all great even though they did not achieve any level. You never know when you do not think they deserve your time. Everyone should ask self one question: how great you are? what you have to deserve other to take? what makes you feel worth with computer rather than trusting people can benefit you more?
+be thankful and friendly to others, but not overvalue ourselves willing to spend more time with people. We will know every individual are acutally precious and worth you to devote some time to them. They are all great even though they did not achieve any level. You never know when you do not think they deserve your time. Everyone should ask self one question: how great you are? what you have to deserve other to take? what makes you feel worth with computer rather than trusting people can benefit you more?
 
 When you know you are nothing without someone else's existence, you will not take everything for granted without appreciation.
 Everything we take is from nature. Let me figure out the process: first, we live with energy. Food is evergy, fuel is energy,
