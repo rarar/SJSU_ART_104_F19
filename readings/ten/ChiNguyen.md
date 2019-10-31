@@ -1,4 +1,4 @@
-** Reading Response #10 **
+**Reading Response #10**
 
 Irony. The greatest invention in human rhetoric since the dawn of man. Irony is simply the difference between what is to be expected and 
 the actual final result. This is a classic clash of assumptions and realities that anyone could ask for. Nostradamus’s origins as a prophet 
