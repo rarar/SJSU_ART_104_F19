@@ -29,7 +29,7 @@ be thankful and friendly to others. We will not overvalue ourselves and willing 
 When you know you are nothing without someone else's existence, you will not take everything for granted without appreciation.
 Everything we take is from nature. Let me figure out the process: first, we live with energy. Food is energy, fuel is energy,
 sunshine is energy etc. How energy comes from?  Sun raised plants. Plants grew animals. Animals raised human. The human raised children. Without trees, we do not have fresh air and freshwater. Human is great, but nature is more significant than humans because
-we are created by nature. No matter how many resources you have, we humans only have a 6-foot body and three meals with a bed.
+we are created by nature. No matter how many resources you owned, we humans only have a 6-foot body and three meals with a bed.
 Wisdom will lead people to have a happy life. 
 
 
