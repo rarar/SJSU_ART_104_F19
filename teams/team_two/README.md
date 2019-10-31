@@ -35,3 +35,5 @@ https://books.google.com/books?id=UkmqDwAAQBAJ&pg=PT70&lpg=PT70&dq=Stewart,+Daxt
 
 Google doc link
 https://drive.google.com/drive/u/0/folders/1DlIds7FYudQyEcEKQt1oaOf5zi_kVeAs
+abstract link
+https://docs.google.com/document/d/1Y4ODsZu_iEwPq4S9xijAPBFI_jjUaDIbealyErNt_Hw/edit
