@@ -29,10 +29,12 @@ meet a famous person in glocery store and he told me that living life with philo
 
 In the long river of the universe, human existence is only an instant。 In the long river of human time, the existence of an individual is only a small tiny point. Appreciating the majestic nature even enjoy the sunchine can lead us to be humble. We
 will realise how small we are and many things are just so trivial. We will not take for granted from nature rather we will
-be thankful and friendly, but not overvalue ourselves to spend more time with people. We will know every individual are acutally precious and worth you to devote some time to them. They are all great even though they did not achieve any level. You never know when you do not think they deserve your time. Everyone should ask self one question: how great you are? what you have to deserve other to take? 
-I did not get moved by the artile because it is kind of pale and self-pity to express personal feelings. Many things can do 
-if you keep your eyes far away not just the place you live. 
-Overvalue
+be thankful and friendly, but not overvalue ourselves to spend more time with people. We will know every individual are acutally precious and worth you to devote some time to them. They are all great even though they did not achieve any level. You never know when you do not think they deserve your time. Everyone should ask self one question: how great you are? what you have to deserve other to take? what makes you feel worth with computer rather than trusting people can benefit you more?
+
+W
+if you keep your eyes far away not just the place you live. e
+if you keep your eyes far away not just the place you live.  
+if you keep your eyes far away not just the place you live.
 
 
 
