@@ -19,7 +19,7 @@ When most people do not value GE class and tell me it wastes time and money, I p
 they were hard for me. My primary class just started from the last semester, I found I know nothing about the field since I gave my time away for my GE class before. I am experiencing in a hard time because nobody wanted to do a project with people like me. I may lower the grades rather than benefiting them. When talking about something, I found I am talking with air without single
 feedback because those are not meat and rice. They do not need it. 
 
-Centemptation, I wanted to laugh when I just came here. I needed to response everything immediately without thinking. I used to
+Contemptation, I wanted to laugh when I just came here. I needed to response everything immediately without thinking. I used to
 meet a famous person in a grocery store a few years ago, and he told me that living life with philosophy is like a piece of pale bread but added jam. I deeply moved by his opinion, and I accept it and live my life combine with philosophy. People can live happier just let go of others and let go of self. 
 
 In the long river of the universe, human existence is only an instant。 In the long stream of social time, the presence of an individual is only a small tiny point. Appreciating the majestic nature even enjoy the sunshine can lead us to be humble. We
