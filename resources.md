@@ -86,3 +86,9 @@ Resources
 3. Trevor Paglen's latest work: https://news.artnet.com/art-world/imagenet-roulette-trevor-paglen-kate-crawford-1658305
 4. Nick Bostrom - What happens when computers get smarter than we are? https://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are
 5. Microsoft's Tay: https://www.theguardian.com/world/2016/mar/29/microsoft-tay-tweets-antisemitic-racism
+
+10/31
+1. John Cage - 4'33": https://www.youtube.com/watch?v=JTEFKFiXSx4&t=29s
+2. Jenny Odell - Satellite Landscapes: http://www.jennyodell.com/satellite-landscapes.html
+3. Jenny Odell - Bureau of Suspended Objects: http://www.jennyodell.com/bso.html
+4. Pauline Oliveros - The difference between hearing and listening: https://www.youtube.com/watch?v=_QHfOuRrJB8
