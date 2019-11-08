@@ -54,6 +54,7 @@ In the modern world, humans are no longer the sole creators of artworks; machine
  
  
 Bibliography
+</p>
 Basheer, Shamnad. "Artificial Invention: Mind the Machine!" SCRIPTed, vol. 13, no. 3, 2016, pp. 334-358. https://script-ed.org/article/artificial-invention-mind-the-machine/
 Fraser, Erica. "Computers as Inventors – Legal and Policy Implications of Artificial Intelligence on Patent Law." SCRIPTed, vol. 13, no. 3, 2016, pp. 305-333. https://script-ed.org/article/computers-as-inventors-legal-and-policy-implications-of-artificial-intelligence-on-patent-law/
 Grimmelmann, James. "Copyright for Literate Robots." IOWA Law Review, vol. 1, no. 3, 2017, pp. 657-681. https://ilr.law.uiowa.edu/print/volume-101-issue-2/copyright-for-literate-robots/
