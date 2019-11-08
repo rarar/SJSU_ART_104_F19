@@ -82,7 +82,7 @@ Schedule
 | *Week 9* 10/17      | **Reading 8 Due to class Git** **Reading 9: Towards a Poetics of Artificial Super Intelligence https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography and an abstract** |
 | *Week 10* 10/24     | **Reading 9 Due to class Git** **Reading 10: How to do nothing by Jenny Odell: https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb** ** Research and in class work on papers |
 | *Week 11* 10/31     | ** Discussion ** **No Reading Assigned for Next week: First Draft of Final Due** ** Research and in class work on papers |
-| *Week 12* 11/7     | First Draft of Final Papers Due ** Presentation + Discussion ** Reading 10: assigned in class ** Research and in class work on papers **** |
+| *Week 12* 11/7     | First Draft of Final Papers Due ** Presentation + Discussion ** Reading 10: https://bigthink.com/podcast/cambridge-analytica ** Research and in class work on papers **** |
 | *Week 13* 11/11     | ATC 9-12:30 MLK 225 |
 | *Week 13* 11/12     | ATC 9-12:30 MLK 225 |
 | *Week 14* 11/21     | ** Discussion ** Reading 11: assigned in class ** Research and in class work on papers|
