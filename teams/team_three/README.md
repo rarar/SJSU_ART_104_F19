@@ -5,7 +5,7 @@ Elizabeth
 Olivia
 
 Google Doc Link https://docs.google.com/document/d/1-1d3XuCc6JLyjq1JdWUMGTU6E88tAqUOSF10PEJINHU/edit?ts=5d9fddde
-    --> For 1st draft: go to "CONSTRUCTED VERSION"
+    --> For 1st draft: go to "CONSTRUCTED VERSION" pg.06
 
 NOTES:
 Topic: Internet content (fake, hidden, virality, unrealistic, dangerous, misleading, fake info on internet made to look realistic is messing with our lives)
