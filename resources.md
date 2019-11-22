@@ -92,3 +92,9 @@ Resources
 2. Jenny Odell - Satellite Landscapes: http://www.jennyodell.com/satellite-landscapes.html
 3. Jenny Odell - Bureau of Suspended Objects: http://www.jennyodell.com/bso.html
 4. Pauline Oliveros - The difference between hearing and listening: https://www.youtube.com/watch?v=_QHfOuRrJB8
+
+11/21
+1. The Great Hack: https://www.netflix.com/watch/80117542
+2. Watson Tone Analyzer: https://www.ibm.com/watson/services/tone-analyzer/
+3. Psychographics: https://en.wikipedia.org/wiki/Psychographics
+4. The Facebook and Cambridge Analytica scandal, explained with a simple diagram: https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram
