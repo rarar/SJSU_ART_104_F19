@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<title>(Title of the Article)</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
+<style>
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("https://image.freepik.com/free-vector/facebook-logo-background_1412-27.jpg");
+  min-height: 75%;
+}
+
+.menu {
+  display: none;
+}
+</style>
+<body>
+
+<!-- Links (sit on top) -->
+<div class="w3-top">
+  <div class="w3-row w3-padding w3-black">
+    <div class="w3-col s3">
+      <a href="#" class="w3-button w3-block w3-black">HOME</a>
+    </div>
+    <div class="w3-col s3">
+      <a href="#about" class="w3-button w3-block w3-black">Articles</a>
+    </div>
+    <div class="w3-col s3">
+      <a href="#menu" class="w3-button w3-block w3-black">About Switch</a>
+    </div>
+    
+  </div>
+</div>
+
+<!-- Header with image -->
+<header class="bgimg w3-display-container w3-grayscale-min" id="home">
+  <div class="w3-display-bottomleft w3-center w3-padding-large w3-hide-small">
+    <span class="w3-tag">Names of your group</span>
+  </div>
+  <div class="w3-display-middle w3-center">
+    <span class="w3-text-white" style="font-size:50px">Title
+   </span>
+  </div>
+  <div class="w3-display-bottomright w3-center w3-padding-large">
+    <span class="w3-text-white">Team Name</span>
+  </div>
+</header>
+
+<!-- Add a background color and large text to the whole page -->
+<div class="w3-sand w3-grayscale w3-large">
+
+<!-- About Container -->
+<div class="w3-container" id="about">
+  <div class="w3-content" style="max-width:700px">
+    <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">Name of your article</span></h5>
+    <h3>intro</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit velit, repellat magnam ullam necessitatibus voluptas in dolor, eum temporibus tempore perferendis aperiam id ab dolores alias iste dicta quam blanditiis.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, voluptatibus, distinctio. Pariatur ut sapiente porro iste iusto, vel at dignissimos necessitatibus perferendis dolorem reprehenderit, ab saepe, consequuntur officiis expedita quidem!
+</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit quia, optio placeat fugit! Earum neque facere aperiam sapiente odit corporis, ducimus, perferendis rerum cupiditate itaque! Nihil doloribus rem deleniti quasi.</p>
+<p>Facebook is selling data to the marketplace for the matchmaking to advertisement. There was a survey taken and that not many Facebook users know about the Application Programming Interface is used to access the users information. Facebook has allowed third- party applications in the system. This meant those third- party applications have accessed to any users personal data. Facebook has the option of only allowing “Friends only” to access profile but that still allows third- party applications that their friends are using to access the personal information. There is a magazine called Consumer Reports Magazine and they discuss a study about Facebook privacy in January 2012, “Almost 13 million users said they had never set, or didn’t know about, Facebook’s privacy tools. And 28 % shared all, or almost all, of their wall posts with an audience wider than just their friends.”</p>
+<p>Facebook has the option for users to disable or delete their account. However, the comments and media that were posted cannot be removed. They will forever remain in Facebook’s database. Facebook has claimed that the media is inaccessible however Facebook still allowed entry for the satisfaction even when the account has been deleted. Facebook not only takes those data but also takes the information we share such as links, connections, locations, and many more. They will use these information and give them to advertisers even if the account has been disabled or deleted. 
+Facebook has stated how there will be privacy protection but there hasn’t been any protection at all. What’s worse is that the data we input in the Facebook system will remain in their database forever for other users, third- app applications, and advertisers to see, to use, or to collect.</p>
+<!-- About Container -->
+<div class="w3-container" id="about">
+  <div class="w3-content" style="max-width:700px">
+    <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">Title of section</span></h5>
+
+<div class="w3-container" id="about">
+  <div class="w3-content" style="max-width:700px">
+    <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">Title of section</span></h5>
+<p>words text</p>
+
+
+<center><b>Bibliography:</b></center>
+<p>your bios (make sure to have a hanging line with this)
+ 
+</p>
+</div>
+
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-48 w3-large">
+  <p>CADRE <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green"></a></p>
+</footer>
+
+<script>
+// Tabbed Menu
+function openMenu(evt, menuName) {
+  var i, x, tablinks;
+  x = document.getElementsByClassName("menu");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < x.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" w3-dark-grey", "");
+  }
+  document.getElementById(menuName).style.display = "block";
+  evt.currentTarget.firstElementChild.className += " w3-dark-grey";
+}
+document.getElementById("myLink").click();
+</script>
+
+</body>
+</html>
