@@ -1,6 +1,6 @@
 In this book, “How to Do nothing.” Jinny Odell offers her readers permission to just be themselves and avoid all the pressures and expectations that the world puts on them. She encourages readers to shift most of their attention from the materialistic aspects of life and instead, shift it to all the beautiful things that nature has provided the human race through its surroundings. She argues that the everyday struggles to gain possessions and excel in life are making humans not to realize the fullness of life as they should. She encourages readers to take road trips through natural vegetation areas and just marvel all that nature has to offer.
 </div>
-<div>
+</div>
 According to her, sometimes it is much more rewarding to engage in an activity without paying too much attention to what one stands to gain from it. This kind of mentality is not common to everyone as most people are only concerned with how much they will gain within a given time period and work effort. She even recommends in the book that if the suggestions she is proposing in the text are taken up and put into practice, political change that is beneficial to the people would follow. She proposes a very uncommon type of retreat where the readers are supposed to avoid posts and sentiments whose design is primarily to increase our productivity. She instead asks readers to become meaningful in counter production and develop a mentality for discovering oneself and going beyond algorithmic description.
 </div>
 </div>
