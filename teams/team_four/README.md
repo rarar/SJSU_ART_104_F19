@@ -29,6 +29,13 @@ Source:
 
 8) https://www.conserve-energy-future.com/pros-and-cons-of-genetic-engineering.php
 
+9)https://search-proquest-com.libaccess.sjlibrary.org/docview/2051460146/previewPDF/6653438E1A044646PQ/1?accountid=10361
+
+Analyzing the Potential Impact and Ethical Questions Surrounding CRISPR-Cas9 in Embryonic Genome Editing
+Hanamirian, Michael Albert, Jr. Wake Forest University, ProQuest Dissertations Publishing, 2018. 10814203.
+
+Hanamirian, M. A., Jr. (2018). Analyzing the potential impact and ethical questions surrounding CRISPR-Cas9 in embryonic genome editing (Order No. 10814203). Available from ProQuest Dissertations & Theses Global: The Sciences and Engineering Collection. (2051460146). Retrieved from http://search.proquest.com.libaccess.sjlibrary.org/docview/2051460146?accountid=10361
+
 
 Parts:
 
