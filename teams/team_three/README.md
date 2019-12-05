@@ -4,8 +4,15 @@ Vicky
 Elizabeth
 Olivia
 
-Google Doc Link https://docs.google.com/document/d/1-1d3XuCc6JLyjq1JdWUMGTU6E88tAqUOSF10PEJINHU/edit?ts=5d9fddde
-    --> For 1st draft: go to "CONSTRUCTED VERSION" pg.06
+
+Google Doc Link for FINAL: https://docs.google.com/document/d/1d__vdTW2xrOjvcmm4aFa83zUCsWfVHV7ImgV6mPtqN8/edit
+
+
+
+
+
+Google Doc Link (Draft/notes/outline) https://docs.google.com/document/d/1-1d3XuCc6JLyjq1JdWUMGTU6E88tAqUOSF10PEJINHU/edit?ts=5d9fddde
+    --> For 1st draft: go to "CONSTRUCTED VERSION" pg.06 
 
 NOTES:
 Topic: Internet content (fake, hidden, virality, unrealistic, dangerous, misleading, fake info on internet made to look realistic is messing with our lives)
