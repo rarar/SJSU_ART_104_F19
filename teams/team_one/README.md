@@ -28,6 +28,9 @@ If anyone asks, I couldn't stop thinking about the important role of patronage a
 **Abstract Link**
 https://docs.google.com/document/d/1bGAJUiLcrEGjEPRiaUmQxthcGX4W0g6N_Wl5g_AwDSY/edit?usp=sharing
 
+**FINAL DOC LINK**
+https://docs.google.com/document/d/1bGAJUiLcrEGjEPRiaUmQxthcGX4W0g6N_Wl5g_AwDSY/edit?usp=sharing
+
 Draft:
 
 Sustainable Tech of ‘19
